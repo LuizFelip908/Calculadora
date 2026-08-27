@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF17181A</color>
+    <color name="display_background">#FF17181A</color>
+    <color name="keyboard_background">#FF202124</color>
+
+    <color name="button_number">#FF2E2F38</color>
+    <color name="button_function">#FF4E505F</color>
+    <color name="button_operator">#FF4B5EFC</color>
+    <color name="button_equals">#FF4B5EFC</color>
+
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FF747477</color>
+    <color name="text_operator">#FFFFFFFF</color>
+    <color name="result_highlight">#FFFFFFFF</color>
+    <color name="expression_text">#FF8E8E93</color>
+
+    <color name="ic_launcher_background">#FF4B5EFC</color>
+</resources>
